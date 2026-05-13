@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "manteclaw"
+  ],
+  "name": "Base L2 Agent Kit",
+  "description": ""
+}
